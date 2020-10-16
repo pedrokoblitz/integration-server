@@ -32,7 +32,7 @@ CREATE TABLE `term_types` (
 
 JSON Sample
 -------------------------------------
-{    "updated_at": "2103-06-23T04:30:38.695441536-03:00",    "id": 78,    "slug": "VIWZakasHgLZmkRRKecvYcUFx",    "name": "gmJGVgJKYqXGdkxNRPbYUVoCA",    "created_at": "2283-08-25T06:31:08.516181283-03:00"}
+{    "slug": "PIbopcUaqOTLlfycwysOPjyeh",    "name": "ucHkghXRVZGbGYDkGIApLgGKn",    "created_at": "2133-07-11T13:03:10.630048687-03:00",    "updated_at": "2181-09-18T13:35:59.025215377-03:00",    "id": 54}
 
 
 Comments

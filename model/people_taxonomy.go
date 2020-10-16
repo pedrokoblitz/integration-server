@@ -31,7 +31,7 @@ CREATE TABLE `people_taxonomy` (
 
 JSON Sample
 -------------------------------------
-{    "id": 49,    "person_id": 64,    "product_id": 7,    "created_at": "2083-03-30T19:03:22.05336651-03:00",    "updated_at": "2245-02-27T05:33:21.628114745-03:00"}
+{    "updated_at": "2180-10-15T03:44:25.773426007-03:00",    "id": 1,    "person_id": 40,    "product_id": 30,    "created_at": "2170-10-28T21:08:57.007968305-03:00"}
 
 
 Comments

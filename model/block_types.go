@@ -51,7 +51,7 @@ CREATE TABLE `block_types` (
 
 JSON Sample
 -------------------------------------
-{    "is_page_term": 80,    "file_1": 1,    "updated_at": "2119-10-19T08:24:00.525421887-03:00",    "id": 29,    "app_id": 32,    "is_parent": 85,    "line_3": 55,    "button_text": 5,    "date_1": 40,    "slug": "vpyfGCMjgDufiSIgyKIdRvuQV",    "is_page": 85,    "line_2": 84,    "text_1": 33,    "text_2": 42,    "embed": 77,    "created_at": "2069-09-05T00:04:59.555708001-03:00",    "name": "feakKKVlkMYixQSDTNNnfjrrW",    "is_module": 28,    "is_child": 29,    "line_1": 57,    "file_2": 69,    "url": 64,    "date_2": 83,    "is_product_term": 24,    "is_product": 9}
+{    "file_1": 71,    "button_text": 90,    "date_1": 12,    "file_2": 14,    "embed": 52,    "date_2": 1,    "name": "FmGdJxOtPXFGpHtcWFJQcUBKl",    "is_page_term": 48,    "line_1": 1,    "line_2": 88,    "line_3": 36,    "url": 31,    "created_at": "2138-05-28T23:44:54.72552756-03:00",    "app_id": 66,    "is_module": 93,    "is_page": 55,    "is_child": 91,    "text_2": 82,    "text_1": 28,    "updated_at": "2043-05-05T21:58:47.981849414-03:00",    "id": 67,    "slug": "EocsrYxsXwaKmyHeTkmFCCTIw",    "is_product_term": 58,    "is_product": 65,    "is_parent": 50}
 
 
 Comments

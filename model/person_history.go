@@ -35,7 +35,7 @@ CREATE TABLE `person_history` (
 
 JSON Sample
 -------------------------------------
-{    "app_id": 27,    "id": 60,    "person_id": 47,    "campaign_id": 85,    "user_identifier": "oHdIvaemvNMOIwamSRVwnNvQG",    "deleted_at": "2286-08-17T22:48:31.582332-03:00",    "created_at": "2200-04-25T12:42:07.68413435-03:00",    "updated_at": "2223-06-20T11:25:58.860682274-03:00",    "action_id": 15}
+{    "action_id": 26,    "user_identifier": "dZGKgFZGrDPqvsukwuKUYqiRN",    "person_id": 82,    "campaign_id": 96,    "deleted_at": "2037-08-15T09:44:55.934463159-03:00",    "created_at": "2275-10-04T11:44:00.481142114-03:00",    "updated_at": "2237-03-12T08:33:43.587133917-03:00",    "id": 77,    "app_id": 13}
 
 
 Comments

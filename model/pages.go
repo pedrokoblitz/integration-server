@@ -40,7 +40,7 @@ CREATE TABLE `pages` (
 
 JSON Sample
 -------------------------------------
-{    "user_id": 25,    "slug": "rHBwMBNGsJFKsYivhjtlIUJuf",    "meta_image": "kxNOkadKxiOmaNbncSwDSwiaa",    "app_id": 56,    "updated_at": "2114-07-29T20:27:34.547714751-03:00",    "parent_id": 27,    "type_id": 83,    "meta_description": "DtFIcOCYjQhmkKLwODIdkgUTv",    "status": "cgJCqyYXXjKGDHXfxbcSFBlrZ",    "css": "cDvjjeGcZRfvLJiHlQWwZvpUx",    "id": 89,    "meta_keywords": "WsdyIbSPleTJGXgSvYdQJuRwx",    "created_at": "2094-06-08T21:37:47.171627177-03:00",    "meta_title": "VnfQniIjXGZuhMnudjUhQYxMj"}
+{    "id": 84,    "parent_id": 79,    "updated_at": "2217-08-19T03:13:43.131265848-03:00",    "slug": "ldwRPAeItqMWPnttDtLkXYVRc",    "meta_title": "vnWviTRgslCUakUURIcxWXZli",    "created_at": "2127-09-24T08:34:18.71783943-03:00",    "status": "MSqgBkSfyNkjqZniicJSOYfVH",    "app_id": 39,    "meta_description": "tJOHrngcJmiaTErQnQrDxxhRs",    "meta_keywords": "RRXVRJmLWuUpdPMELYoUjwpwh",    "css": "rQdmlEgbTwHJwEnTkVBcAamkd",    "user_id": 64,    "type_id": 52,    "meta_image": "XHGUSKlYXUqDWTnMQEPOxOqpn"}
 
 
 Comments

@@ -31,7 +31,7 @@ CREATE TABLE `settings` (
 
 JSON Sample
 -------------------------------------
-{    "value": "QyNoTEEsZeOaxIWYyuQlLrlCE",    "created_at": "2277-08-30T10:37:31.323310332-03:00",    "updated_at": "2265-08-22T05:04:18.573059385-03:00",    "id": 37,    "key": "qkSRvDTYTwDIBOJIiIxXTrxTt"}
+{    "id": 80,    "key": "HrdbwWbKXMjdyjKRCVujarOwZ",    "value": "bgcTowQTaSbwcsWUjnkQFpnXS",    "created_at": "2172-05-25T14:38:20.996698312-03:00",    "updated_at": "2138-05-17T13:53:56.671472759-03:00"}
 
 
 Comments

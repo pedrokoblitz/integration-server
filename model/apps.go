@@ -35,7 +35,7 @@ CREATE TABLE `apps` (
 
 JSON Sample
 -------------------------------------
-{    "logo": "jdwIOhkayCTrTeWVsJdHHHBDw",    "is_store": 2,    "id": 2,    "name": "XQlLfpniDnJPuXKYaaawyFEMR",    "slug": "jrfElQFjrsdZbAQhVkKsaLKLD",    "description": "evlSvYryAFkqdfMBkCoXAAhcI",    "is_content": 8,    "created_at": "2247-04-29T16:10:58.039486023-03:00",    "updated_at": "2090-09-24T23:42:53.599915131-03:00"}
+{    "name": "XJBqIHjlouayrJKyoAYMcCVCu",    "description": "lhoyXdRddLwCCShRTCjcaTKbt",    "is_content": 82,    "is_store": 87,    "id": 65,    "logo": "FsOoanSOJoGCEQuuFojoAdlVh",    "created_at": "2289-07-19T14:34:46.012738659-03:00",    "updated_at": "2101-11-06T21:15:32.21372178-03:00",    "slug": "RVYHDmrRWtrcGQDMmTWUfGjao"}
 
 
 Comments

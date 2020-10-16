@@ -29,53 +29,20 @@ var (
 
 func init() {
 	tables = make(map[string]*TableInfo)
-
-	tables["address_types"] = address_typesTableInfo
-	tables["addresses"] = addressesTableInfo
-	tables["api_key_types"] = api_key_typesTableInfo
-	tables["api_keys"] = api_keysTableInfo
 	tables["apps"] = appsTableInfo
 	tables["block_types"] = block_typesTableInfo
 	tables["blocks"] = blocksTableInfo
 	tables["campaings"] = campaingsTableInfo
-	tables["clients"] = clientsTableInfo
-	tables["clients_apps"] = clients_appsTableInfo
-	tables["clients_users"] = clients_usersTableInfo
-	tables["coupons"] = couponsTableInfo
-	tables["customer_tracking"] = customer_trackingTableInfo
-	tables["failed_jobs"] = failed_jobsTableInfo
-	tables["jobs"] = jobsTableInfo
-	tables["larametrics_logs"] = larametrics_logsTableInfo
-	tables["larametrics_models"] = larametrics_modelsTableInfo
-	tables["larametrics_notifications"] = larametrics_notificationsTableInfo
-	tables["larametrics_requests"] = larametrics_requestsTableInfo
-	tables["migrations"] = migrationsTableInfo
-	tables["order_items"] = order_itemsTableInfo
-	tables["orders"] = ordersTableInfo
 	tables["page_taxonomy"] = page_taxonomyTableInfo
 	tables["page_types"] = page_typesTableInfo
 	tables["pages"] = pagesTableInfo
-	tables["password_resets"] = password_resetsTableInfo
-	tables["payment_status"] = payment_statusTableInfo
-	tables["payment_status_history"] = payment_status_historyTableInfo
 	tables["people"] = peopleTableInfo
 	tables["people_taxonomy"] = people_taxonomyTableInfo
 	tables["person_actions"] = person_actionsTableInfo
 	tables["person_history"] = person_historyTableInfo
-	tables["prices"] = pricesTableInfo
-	tables["product_images"] = product_imagesTableInfo
-	tables["product_taxonomy"] = product_taxonomyTableInfo
-	tables["product_types"] = product_typesTableInfo
-	tables["products"] = productsTableInfo
-	tables["progress"] = progressTableInfo
 	tables["settings"] = settingsTableInfo
-	tables["shipping_status"] = shipping_statusTableInfo
-	tables["shipping_status_history"] = shipping_status_historyTableInfo
-	tables["tasks"] = tasksTableInfo
 	tables["term_types"] = term_typesTableInfo
 	tables["terms"] = termsTableInfo
-	tables["users"] = usersTableInfo
-	tables["users_in_apps"] = users_in_appsTableInfo
 }
 
 // String describe the action

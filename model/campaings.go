@@ -34,7 +34,7 @@ CREATE TABLE `campaings` (
 
 JSON Sample
 -------------------------------------
-{    "page_id": 47,    "name": "evmoBxRaTCUUOSRcpqUJBFwQK",    "slug": "GojEARbmumJJmTSdhiFooaypc",    "last_sent": "2170-10-30T19:27:53.651140024-03:00",    "created_at": "2156-06-27T01:11:41.010063449-03:00",    "updated_at": "2312-11-10T11:27:32.205989093-03:00",    "id": 77,    "app_id": 8}
+{    "slug": "BYMGRNrXsLnWUjuLLJrmRnjfk",    "last_sent": "2232-12-21T20:34:27.004187954-03:00",    "created_at": "2189-01-08T12:10:36.089774649-03:00",    "updated_at": "2289-01-14T01:52:29.117948969-03:00",    "id": 86,    "app_id": 55,    "page_id": 73,    "name": "tqFMZYZsvECpoycYVIbMeLdot"}
 
 
 Comments

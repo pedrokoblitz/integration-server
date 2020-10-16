@@ -40,7 +40,7 @@ CREATE TABLE `people` (
 
 JSON Sample
 -------------------------------------
-{    "email": "UusrLQoUDBsjpIpyYUuLQHyHg",    "twitter": "GqvmAjwXHtPEeceFjOgXdcXtL",    "birthdate": "2149-05-05T03:37:24.691110102-03:00",    "updated_at": "2061-08-05T03:27:07.129201698-03:00",    "id": 66,    "linkedin": "ZJmCiDeZRAoqwJRerrEIWNjBr",    "last_campaing_sent": "2121-08-28T08:43:34.538142559-03:00",    "optout": "2167-12-05T06:31:51.217400224-03:00",    "created_at": "2194-10-19T04:18:24.86474693-03:00",    "name": "dloDebhUFqbwElLHncvZJjCab",    "phone": "uiATlBZQiZEhckpHFIMvBSJkJ",    "instagram": "DVYGIQFJfOZGTBILlvtfiiGps",    "facebook": "dmnQyFoRitJgDcDCurEkdRduM",    "optin": "2150-06-16T00:44:32.653728839-03:00"}
+{    "facebook": "JpMTOQyaQkLFhpeQaKwNlMqjk",    "optout": "2133-06-27T12:15:53.13614602-03:00",    "created_at": "2299-08-24T05:06:11.734829332-03:00",    "id": 34,    "phone": "wRmTXdrTidhkCDqYogObniiDE",    "instagram": "JWVRNIepLByZruWwQrniGvFnU",    "last_campaing_sent": "2312-04-06T02:00:38.635438036-03:00",    "email": "icFFJHsEachiwlxIxjEkleqMd",    "name": "bEiApWqUeIvWCvsDgDymphjNJ",    "twitter": "AyOaHDGjHnnFKxpEpgZXbexPb",    "optin": "2063-09-13T22:10:23.521945907-03:00",    "linkedin": "KIZuYcLApduuvBNsmAmfHAKJS",    "birthdate": "2041-05-01T15:40:55.933900379-03:00",    "updated_at": "2064-11-08T13:21:14.925022763-03:00"}
 
 
 Comments

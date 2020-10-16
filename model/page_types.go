@@ -33,7 +33,7 @@ CREATE TABLE `page_types` (
 
 JSON Sample
 -------------------------------------
-{    "created_at": "2178-03-02T12:36:06.90326299-03:00",    "updated_at": "2298-04-28T03:24:28.441023792-03:00",    "id": 72,    "app_id": 62,    "is_email": 16,    "name": "NqwxMhVCDysnVAKHpGiRaefbr",    "slug": "KljXEEmCVeUfuHMYSRvKFVyjX"}
+{    "updated_at": "2143-12-12T03:15:16.650039767-03:00",    "id": 22,    "app_id": 11,    "is_email": 0,    "name": "LbUFKJgeEmddrJbSfPJUgSnTr",    "slug": "DqulhMGBCHGVCcOJDVmZMQiqw",    "created_at": "2065-11-02T05:49:33.888784383-03:00"}
 
 
 Comments
